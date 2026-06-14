@@ -1,4 +1,5 @@
 🚀# My-python-journey
+
 Welcome to my repository! This is a dedicated space where I am tracking my daily coding progress before my B.Tech engineering college begins. My goal is to build a rock-solid programming foundation for my upcoming studies in Artificial Intelligence and Machine Learning.
 
 ## 🎯 The Goals

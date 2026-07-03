@@ -1,6 +1,6 @@
 🚀# My-python-journey
 
-Welcome to my repository! This is a dedicated space where I am tracking my daily coding progress before my B.S.C in cs journey beigns. My goal is to build a rock-solid programming foundation for my upcoming studies.
+Welcome to my repository! This is a dedicated space where I am tracking my daily coding progress before my B.S.C in cs journey beigns👩🏻‍💻. My goal is to build a rock-solid programming foundation for my upcoming studies.
 
 ## 🎯 The Goals
 - Master core programming logic (inputs, conditions, loops, and functions).
